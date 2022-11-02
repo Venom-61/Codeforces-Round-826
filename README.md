@@ -1,4 +1,4 @@
-# Codeforces Round #826 (Div. 3)
+# ![Codeforces Round #826 (Div. 3)](https://codeforces.com/contest/1741)
 
 1. Compare T-shirt Sizes
 2. Funny Permutation
